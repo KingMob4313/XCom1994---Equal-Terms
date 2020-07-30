@@ -1,0 +1,32 @@
+Weapon                   | Auto  | Snap  | Aimed  | Mag | Type  Damage
+-------------------------+-------+-------+--------+-----|--------------
+Machine Pistol (PISTOL)  | 17/15 | 50/13 | 80/40  | 24  | AP      25
+Assault Rifle  (Rifle)   | 40/22 | 60/25 | 110/50 | 30  | AP      45
+Sniper Rifle (HVY CANNON)|  ---  | 50/33 | 150/80 | 10  | AP      65
+-Launched HE 'Grenade'   |       |       |        |     | HE      80
+-Launched I 'Grenade'    |       |       |        |     | I       75
+SAW (Autocannon)         | 30/13 | 50/33 | 85/65  | 50  | AP      45
+-Launched HE 'Grenade'   |       |       |        |     | HE      80
+-Launched I 'Grenade'    |       |       |        |     | I       75
+Rocket Launcher          |  ---  | 40/35 | 125/75 |  1  |
+-Sabot Shell             |       |       |        |     | AP     250
+-High Explosive Rocket   |       |       |        |     | HE     150
+-Incendiary Rocket       |       |       |        |     | I      120
+Frag. Grenade (Grenade)  |  ---  |  ---  |  ---   | N/A | HE      75
+High Explosive           |  ---  |  ---  |  ---   | N/A | HE     150
+-------------------------+-------+-------+--------+--------------
+Laser Pistol             | 40/28 | 50/16 | 70/45  | N/A | LA      45
+Laser Rifle              | 45/30 | 50/25 | 100/55 | N/A | LA      60
+Sniper Laser (HVY LASER) |  ---  | 50/33 | 130/85 | N/A | LA      90
+-------------------------+-------+-------+--------+--------------
+Plasma Pistol            | 35/33 | 55/20 | 75/45  | 20  | PL      65
+Plasma Rifle             | 37/35 | 55/25 | 105/55 | 25  | PL      80
+Heavy Plasma             | 40/40 | 50/30 | 90/65  | 20  | PL     110
+
+(SAW = Squad Automatic Weapon... Or what we call a light machinegun.  High Rate of fire, same round as the Assault Rifle)
+
+Accuracy/%TU
+
+For X-com 3 stats, add Aimedx2 + snap / 4
+Damages all 90% of X-com 1.
+
